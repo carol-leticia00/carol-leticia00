@@ -2,14 +2,15 @@
 
 Meu nome é Letícia!
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estudei com a [Alura](https://www.alura.com.br) no meu ensino médio
+- Atualmente curso Gestão da Tecnologia da Informação (Gestão de TI)
+- Estou me desenvolvendo na linguagem JavaScript pela plataforma [DIO](https://web.dio.me/home)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
-leehcarolinasiqueira@gmail.com
+leticiacarolinasiqueira00@gmail.com
 
-@letyc4rolina
+@__siqleticia
 
 
